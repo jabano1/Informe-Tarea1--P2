@@ -1,8 +1,8 @@
-# Informe-Tarea1--P2
+# Informe-Tarea1-P2
 
 Nombre: Javier Baño      
 
-Fecha: 02 de junio de 2022
+Fecha: 01 de julio de 2022
 
 NRC: 7318
 
@@ -13,4 +13,14 @@ NRC: 7318
 
 **1.3. Objetivos Específicos:**
 
-* 
+* Identificar y comprender la relacion que existe entre un circuito en serie y paralelo para el respectivo analisis.
+
+* Analizar los circuitos mixtos presentados para realizar el calculo de la resistencia total si el ejercicio lo requiere, relacionando los circuitos en serie y paralelo.
+
+* Comprender los varios metodos de resolucion de analisis de circuitos electricos para aplicarlos en ejercicios propuestos de estos capitulos.
+
+* Establecer una solucion para el analisis de ejercicios de circuitos electricos de la manera mas comoda que se crea posible, utilizando cualquiera de los metodos de resolución.
+
+* Distinguir la diferencia entre las resistencias internas que ocupan las fuentes de voltaje y corriente para su analisis. 
+
+
