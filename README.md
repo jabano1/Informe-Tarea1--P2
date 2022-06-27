@@ -23,4 +23,21 @@ NRC: 7318
 
 * Distinguir la diferencia entre las resistencias internas que ocupan las fuentes de voltaje y corriente para su analisis. 
 
+**2. Marco Teórico**
+
+**Relacion Serie-Paralelo**
+![Relacion serie paralelo](https://user-images.githubusercontent.com/105677231/176054214-7a521a32-958e-4ee9-bd70-809695859bbf.JPG)
+***
+**Redes en Escalera**
+![Redes en escalera](https://user-images.githubusercontent.com/105677231/176054243-00c58bb7-b2a8-4842-a19c-0d2d96b3f192.JPG)
+***
+**Análisis de Circuitos Resistivos**
+![Analisis de circuitos resistivos](https://user-images.githubusercontent.com/105677231/176054281-ff0fff8f-c6bf-45d9-ae38-2a434a876ffd.JPG)
+***
+**Divisores de Voltaje con Cargas Resistivas**
+![Divisores de voltaje con cargas resistivas](https://user-images.githubusercontent.com/105677231/176054334-db7fa122-c3fb-4574-9ec4-a58542199101.JPG)
+***
+**Fuentes de Voltaje CD**
+![Fuente de Voltaje cd](https://user-images.githubusercontent.com/105677231/176054376-99d3aaa2-8439-4a34-959c-729b5f2724d0.JPG)
+***
 
