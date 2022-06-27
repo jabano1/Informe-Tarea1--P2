@@ -40,4 +40,30 @@ NRC: 7318
 **Fuentes de Voltaje CD**
 ![Fuente de Voltaje cd](https://user-images.githubusercontent.com/105677231/176054376-99d3aaa2-8439-4a34-959c-729b5f2724d0.JPG)
 ***
+**Fuentes de Corriente**
+![Fuentes de corriente](https://user-images.githubusercontent.com/105677231/176054454-d52c69b2-3900-45a4-8bb9-290b9d475c9e.JPG)
+***
+**Teorema de Superposición**
+![Teorema de Superposicion](https://user-images.githubusercontent.com/105677231/176054494-f7bf1edf-b658-4f65-a211-60a658705ddd.JPG)
+***
+**Teorema de Thevenin**
+![Teorema de Thenevin](https://user-images.githubusercontent.com/105677231/176054529-64ace765-f652-4a4b-a074-4bfe3e66d364.JPG)
+***
+**Teorema de Norton**
+![Teorema de Norton](https://user-images.githubusercontent.com/105677231/176054553-b8e15875-f8fb-4bd1-8f69-98206dad2c32.JPG)
+***
+**Conversiones de Fuentes**
+![Conversiones de fuente](https://user-images.githubusercontent.com/105677231/176054595-e5aa076b-d3b8-4fc4-89f2-7e03f4003f38.JPG)
+***
+**Conversiones DELTA a Y y Y a DELTA**
+![Conversiones Delta a Y](https://user-images.githubusercontent.com/105677231/176054804-fb91b10d-ee45-4d6c-9527-0f11fb54c501.JPG)
+***
+
+
+
+
+
+
+
+
 
