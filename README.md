@@ -75,7 +75,9 @@ NRC: 7318
 
 ![4](https://user-images.githubusercontent.com/105677231/176062686-8779a80f-8933-4232-97e9-88977b6a674a.JPG)
 
-**6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.**
+**6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.**
+
+![f 7-65](https://user-images.githubusercontent.com/105677231/176062820-a991446e-403b-448f-ad40-83f0b4932f7a.JPG)
 
 
 
