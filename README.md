@@ -86,6 +86,23 @@ Resolviendo:
 
 ![6AS](https://user-images.githubusercontent.com/105677231/176218637-5c71985d-0082-4189-ad42-f82a2b1c3995.JPG)
 
+**8.  Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?**
+
+**10. . Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63**
+
+-El problema nueve dice que se debe determinar la resistencia total para cada uno de los circuitos, en este caso se calculará de la figura 7-63.
+
+![f7-63](https://user-images.githubusercontent.com/105677231/176225157-de964fee-4db4-4f57-99b3-74c618e59ed6.JPG)
+
+**a)** En el circuito A, las resistencias que estan en serie son la R1 y la R2. Por lo tanto se sumarían algebraicamente dando como resultado una resistencia equivalente de 2kΩ. Las resistencias R3 y R4, se encuentran en paralelo. Mediante la formula estudiada de la sumatoria de resistencias en paralelo, nos da como resultado una resistencia equivalente de 1.32 kΩ. La resistencia total seria la sumatoria algraica de estos dos valores dando como resultado que la resistencia total de todo el circuito es de **RT= 3.32KΩ**.
+
+**b)** El circuito B presenta conexiones en paralelo de todas sus resistencias. Sería la sumatoria en paralelo de todas las resistencias conectadas en el circuito mediante la formula estudiada, dando como resultado el valor de **RT= 400KΩ**.
+
+**c)** En el circuito C, las resistencias que se encuentran en serie son R1 y R2, sumando algebraicamente da como resultado una resistencia equivalente de 2kΩ. Mientras que R5, R3 y R4 se encuentran en paralelo, es por esto que se tiene que sumar con la formula estudiada, dando como resultado una resistencia equivalente de 1.62 KΩ. Finalmente la resistencia R6 y R7 estan en paralelo, y a su vez estan concectadas en serie con R8, por lo tanto su resistencia equivalente es de 5.2 KΩ. La resistencia total sería la suma de todas las resistencias, dando como resultado un valor de **RT: 8.82KΩ**.
+
+
+
+
 
 **4. Video**
 
