@@ -68,8 +68,11 @@ NRC: 7318
 
 **a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie**
 
+![A](https://user-images.githubusercontent.com/105677231/176218684-1a5285a8-061c-453f-a008-4541281dced3.JPG)
 
 **b)  Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores**
+
+![B](https://user-images.githubusercontent.com/105677231/176218728-ecc561f5-4099-4434-b36c-59c9a50d36d7.JPG)
 
 **4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente**
 
@@ -79,6 +82,9 @@ NRC: 7318
 
 ![f 7-65](https://user-images.githubusercontent.com/105677231/176062820-a991446e-403b-448f-ad40-83f0b4932f7a.JPG)
 
+Resolviendo:
+
+![6AS](https://user-images.githubusercontent.com/105677231/176218637-5c71985d-0082-4189-ad42-f82a2b1c3995.JPG)
 
 
 **4. Video**
