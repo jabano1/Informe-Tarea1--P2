@@ -59,6 +59,33 @@ NRC: 7318
 ![Conversiones Delta a Y](https://user-images.githubusercontent.com/105677231/176054804-fb91b10d-ee45-4d6c-9527-0f11fb54c501.JPG)
 ***
 
+**3. Explicacion y Resolucion de ejercicios**
+***
+
+**Capítulo 7**
+
+**2. Visualice y trace los siguientes circuitos en serie-paralelo:**
+
+**a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie**
+
+
+**b)  Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores**
+
+**4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente**
+
+![4](https://user-images.githubusercontent.com/105677231/176062686-8779a80f-8933-4232-97e9-88977b6a674a.JPG)
+
+**6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.**
+
+
+
+**4. Video**
+
+**5. Conclusiones**
+
+**6. Bibliografía**
+
+Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
 
 
 
