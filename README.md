@@ -100,6 +100,7 @@ Resolviendo:
 
 **c)** En el circuito C, las resistencias que se encuentran en serie son R1 y R2, sumando algebraicamente da como resultado una resistencia equivalente de 2kΩ. Mientras que R5, R3 y R4 se encuentran en paralelo, es por esto que se tiene que sumar con la formula estudiada, dando como resultado una resistencia equivalente de 1.62 KΩ. Finalmente la resistencia R6 y R7 estan en paralelo, y a su vez estan concectadas en serie con R8, por lo tanto su resistencia equivalente es de 5.2 KΩ. La resistencia total sería la suma de todas las resistencias, dando como resultado un valor de **RT: 8.82KΩ**.
 
+**12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje**.
 
 
 
