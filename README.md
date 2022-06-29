@@ -102,6 +102,21 @@ Resolviendo:
 
 **12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje**.
 
+**CIRCUITO A**
+
+![A 12](https://user-images.githubusercontent.com/105677231/176564628-1c1ba239-cdb9-4c77-a668-c941a68aaefa.JPG)
+
+**CIRCUITO B**
+
+![B 12](https://user-images.githubusercontent.com/105677231/176564673-9f7dd75a-6593-4ea2-b95b-4bac1dbfeb72.JPG)
+
+**CIRCUITO C**
+
+![C1 12](https://user-images.githubusercontent.com/105677231/176564688-ba3f331a-9845-42fc-b3ee-6783eead02d8.JPG)
+![C2 12](https://user-images.githubusercontent.com/105677231/176564702-81128eac-9b2b-4c71-bb8d-3ab21dc5988c.JPG)
+
+
+
 
 
 
