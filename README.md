@@ -115,6 +115,24 @@ Resolviendo:
 ![C1 12](https://user-images.githubusercontent.com/105677231/176564688-ba3f331a-9845-42fc-b3ee-6783eead02d8.JPG)
 ![C2 12](https://user-images.githubusercontent.com/105677231/176564702-81128eac-9b2b-4c71-bb8d-3ab21dc5988c.JPG)
 
+**14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.**
+
+![f 7-67](https://user-images.githubusercontent.com/105677231/176564815-76968f55-f85b-4dee-a7f8-97b9ec070d19.JPG)
+
+-La resistencia entre A y B seria la sumatoria de las resistencias comprendidas en paralelo, la respuesta es: **RT: 4.7KΩ+5.6KΩ= 10.3KΩ**.
+
+**16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68**
+
+Respuesta:
+
+**18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.**
+
+- Las resistencias comprendidas entre A y B, suman un total de 10.3 kΩ. Mientras que la suma resistencias comprendidas desde la fuente hasta el punto C es de 2kΩ. Dados estos resultados, las resistencias equivalentes mostradas se encuentran en paralelo con la suma de las resistencias 10 y 1.8 kΩ, dando como resultado una resistencia equivalente de 11.8kΩ. Entonces la respuesta final es la suma en paralelo de esas tres resistencias equivalentes **R= 1.46KΩ**.
+
+**20. Determine el voltaje, VAB, en la figura 7-69. **
+
+![f 7-69](https://user-images.githubusercontent.com/105677231/176569378-819f6851-1e8a-4dcb-8da6-f4e05c023f45.JPG)
+
 
 
 
