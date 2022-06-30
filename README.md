@@ -203,7 +203,11 @@ Respuesta:
 **4. Video**
 
 **5. Conclusiones**
+- Para poder resolver un circuito mixto se debe tener en cuenta las relaciones paralelo y serie para poder simplificar el circuito a analizar en uno mas facil de interpretar.
 
+- Existen varios metodos para analizar circuitos que son bastante sencillos si se los entiende de la mejor manera, esto ayudará a comprender de mejor manera lo que pasa en un circuito mixt armado.
+
+- Los circuitos en serie y paralelo se encuentran presentes en los aparatos electronicos usados diariamente, esto nos ayuda a entender mejor lo que significan estos circuitos y donde se los puede aplicar.
 **6. Bibliografía**
 
 Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
