@@ -200,6 +200,22 @@ Respuesta:
 
 **f) 1000V** : Se divide la resistencia sobre el voltaje **RI= 20K/1000V** , dando como resultado una resistencia interna de: **RI=20Ω**
 
+**38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b)**
+
+**a)¿Qué intervalo se deberá utilizar? **
+
+Las puntas del multimetro deben ir colocadas en cada pata de la resistencia, en serie, de modo que de esta manera el voltaje será medido para esa resistencia. 
+
+**b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real? **
+
+El voltaje medido se reduce en un porcentaje minimo debido a la tolerancia de la resistencia y tambien puede darse por un defecto en la fuente de voltaje utilizada.
+
+**40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.**
+
+![f7-78](https://user-images.githubusercontent.com/105677231/176795799-adc3edef-72e6-42d2-a07e-f98d8ac68958.JPG)
+
+
+
 **4. Video**
 
 **5. Conclusiones**
@@ -208,6 +224,7 @@ Respuesta:
 - Existen varios metodos para analizar circuitos que son bastante sencillos si se los entiende de la mejor manera, esto ayudará a comprender de mejor manera lo que pasa en un circuito mixt armado.
 
 - Los circuitos en serie y paralelo se encuentran presentes en los aparatos electronicos usados diariamente, esto nos ayuda a entender mejor lo que significan estos circuitos y donde se los puede aplicar.
+
 **6. Bibliografía**
 
 Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
