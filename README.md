@@ -158,7 +158,35 @@ RESOLVIENDO:
 
 RESPUESTA: 
 
+![24](https://user-images.githubusercontent.com/105677231/176786335-dc6bcd32-5288-429d-8716-69c0f87eb9a3.JPG)
 
+**26. a salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?**
+
+-Resolviendo:
+
+![26](https://user-images.githubusercontent.com/105677231/176793751-7db560ea-39bb-48a4-80c3-fb4ed34640a0.JPG)
+
+**28.En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?**
+
+-SOLUCION:
+
+![28](https://user-images.githubusercontent.com/105677231/176793773-8f31eaf3-45de-44cb-9095-b1e2d5b336d3.JPG)
+
+**30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
+
+-SOLUCION:
+
+![30](https://user-images.githubusercontent.com/105677231/176793797-483cb28d-c43d-4331-84d6-d9d5def02e77.JPG)
+
+**32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor**
+
+![f7-75](https://user-images.githubusercontent.com/105677231/176791712-c6626d32-436d-41e6-8d9f-c4a087a1e578.JPG)
+
+Respuesta: 
+
+![32](https://user-images.githubusercontent.com/105677231/176793832-a99be45a-c595-450d-9147-e7abe03b5912.JPG)
+
+**36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.**
 
 
 
