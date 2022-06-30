@@ -188,7 +188,17 @@ Respuesta:
 
 **36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.**
 
+**a) 0.5V** : Se divide la resistencia sobre el voltaje **RI= 20K/0.5V** , dando como resultado una resistencia interna de: **RI=40KΩ**
 
+**b) 1V** : Se divide la resistencia sobre el voltaje **RI= 20K/1V** , dando como resultado una resistencia interna de: **RI=20KΩ**
+
+**c) 5V** : Se divide la resistencia sobre el voltaje **RI= 20K/5V** , dando como resultado una resistencia interna de: **RI=4KΩ**
+
+**d) 50V** : Se divide la resistencia sobre el voltaje **RI= 20K/50V** , dando como resultado una resistencia interna de: **RI=400Ω**
+
+**e) 100V** :Se divide la resistencia sobre el voltaje **RI= 20K/100V** , dando como resultado una resistencia interna de: **RI=200Ω**
+
+**f) 1000V** : Se divide la resistencia sobre el voltaje **RI= 20K/1000V** , dando como resultado una resistencia interna de: **RI=20Ω**
 
 **4. Video**
 
