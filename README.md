@@ -140,6 +140,23 @@ RESOLVIENDO:
 ![20 1](https://user-images.githubusercontent.com/105677231/176775859-910cd55a-049c-475d-95b9-9f7fc0cbfbe7.JPG)
 ![20 2](https://user-images.githubusercontent.com/105677231/176775898-6eab8c1d-b605-4ea5-9d3e-c883413770ff.JPG)
 
+**22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,RAD, RAE, RAF, y RAG).**
+
+![f7-71](https://user-images.githubusercontent.com/105677231/176776155-a74dbf89-8294-4e4a-8a33-00a4d5ed14f2.JPG)
+
+-Para determinar la resistencia que se encuentra entre el nodod A y C , se debe sacar las resistencias equivalentes. La resistencia ente A y C es la suma algebraica de R1 y R2, dando una resistencia de **RE=3.2KΩ** y posteriormente se debe sumar paralelamente a la suma de R8 y R7, dando como resultado una resistencia de **RE=8KΩ**, por lo tanto la resistencia total entre A y C es de **RT= 2.28KΩ**.
+
+-La resistencia que existe entre A y E, se calcula sumando los paralelos y los resistores conectados en serie. Se sumaria la resistencia total determinada en el punto anterior mas la resistencia total entre C y E la cual es **RT= 2.28KΩ**, la suma nos da como resultado **RT= 1.14kΩ**
+
+-La resistencia entre A y D es la suma del circuito cerrado mas la resistencia R3, dando como resultado una resistencia de **RT=3.28KΩ**.
+
+-La resistencia entre A y F es la suma del circuito cerrado mas la resistencia R6, dando como resultado una resistencia de **RT=6.98KΩ**.
+
+**24.  Determine el valor de cada resistor mostrado en la figura 7-73.**
+
+![F7-73](https://user-images.githubusercontent.com/105677231/176777982-b88eecbe-f396-4ba3-a683-e2ecd58b7ad0.JPG)
+
+RESPUESTA: 
 
 
 
