@@ -125,6 +125,8 @@ Resolviendo:
 
 Respuesta:
 
+![16](https://user-images.githubusercontent.com/105677231/176775834-d55dea5e-5375-4d27-bd83-f08c8fe0ffb3.JPG)
+
 **18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.**
 
 - Las resistencias comprendidas entre A y B, suman un total de 10.3 kΩ. Mientras que la suma resistencias comprendidas desde la fuente hasta el punto C es de 2kΩ. Dados estos resultados, las resistencias equivalentes mostradas se encuentran en paralelo con la suma de las resistencias 10 y 1.8 kΩ, dando como resultado una resistencia equivalente de 11.8kΩ. Entonces la respuesta final es la suma en paralelo de esas tres resistencias equivalentes **R= 1.46KΩ**.
@@ -132,6 +134,11 @@ Respuesta:
 **20. Determine el voltaje, VAB, en la figura 7-69. **
 
 ![f 7-69](https://user-images.githubusercontent.com/105677231/176569378-819f6851-1e8a-4dcb-8da6-f4e05c023f45.JPG)
+
+RESOLVIENDO:
+
+![20 1](https://user-images.githubusercontent.com/105677231/176775859-910cd55a-049c-475d-95b9-9f7fc0cbfbe7.JPG)
+![20 2](https://user-images.githubusercontent.com/105677231/176775898-6eab8c1d-b605-4ea5-9d3e-c883413770ff.JPG)
 
 
 
