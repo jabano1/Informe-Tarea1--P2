@@ -214,6 +214,26 @@ El voltaje medido se reduce en un porcentaje minimo debido a la tolerancia de la
 
 ![f7-78](https://user-images.githubusercontent.com/105677231/176795799-adc3edef-72e6-42d2-a07e-f98d8ac68958.JPG)
 
+Respuesta:
+
+**42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?**
+
+![f7-79](https://user-images.githubusercontent.com/105677231/176798006-938b4337-3f14-47fc-aebd-70b5e21e39ae.JPG)
+
+Respuesta:
+
+**44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:**
+
+** a) Interruptor SW2 conectado a 12 V y los demás conectados a tierra**
+
+**Vsalida= 12/8, dando como resultado Vsalida=1.5V**
+
+** b)  Interruptor SW1 conectado a 12 V y los demás conectados a tierra**
+
+**Vsalida= 12/16, dando como resultado Vsalida=0.75V**
+
+**46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV= 18 kΩ y R2/R4= 0.02. ¿Cuál es RX?
+
 
 
 **4. Video**
