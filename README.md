@@ -254,10 +254,62 @@ Respuesta:
 
 ![f7-85](https://user-images.githubusercontent.com/105677231/176803677-2c653f05-76f3-447d-92c8-3e55c1c94861.JPG)
 
-- 
+- Respuesta:
+
+![50](https://user-images.githubusercontent.com/105677231/176811004-83a6bc5d-1677-4635-ac76-2650be22d814.JPG)
+
+-Se puede concluir que los resultados son correctos debido al calculo realizado.
+
+**54.Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?**
+
+![f7-89](https://user-images.githubusercontent.com/105677231/176811180-272c0aea-3628-4bca-bfa1-0cb9ef58282b.JPG)
+
+-Si la resistencia R2 se abre, el circuito quedaría abierto, haciendo que no circule el voltaje hasta el final del circuito, por lo tanto el voltaje que pasa por el punto A es de 15V.
+
+***
+**Capítulo 8**
+
+**2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes. **
+
+![F8-67](https://user-images.githubusercontent.com/105677231/176811652-36b68c58-4d3a-4c5c-beab-6b3c06ddedf3.JPG)
+
+Respuesta:
+
+**4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3**
+
+-Respuesta:
+
+**6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes**
+
+![f8-78](https://user-images.githubusercontent.com/105677231/176812955-8aeede87-adb7-4aaf-ba84-1ac4e6878851.JPG)
+
+-Respuesta:
+
+**8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.**
+
+![f8-69](https://user-images.githubusercontent.com/105677231/176813584-9014fe76-36f1-43b5-97c2-8b33f4f2faac.JPG)
+
+Respuesta:
+
+
+**10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71**
+
+![A 10](https://user-images.githubusercontent.com/105677231/176816213-3b41fe21-4b27-4375-85a8-244c01654401.JPG)
+
+Respuesta:
+
+
+
+**14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.**
+
+
+
+Respuesta: 
 
 
 **4. Video**
+
+https://youtu.be/4-1N90k6Vaw
 
 **5. Conclusiones**
 - Para poder resolver un circuito mixto se debe tener en cuenta las relaciones paralelo y serie para poder simplificar el circuito a analizar en uno mas facil de interpretar.
