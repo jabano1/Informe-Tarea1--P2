@@ -238,13 +238,24 @@ Respuesta:
 
 **Vsalida= 12/16, dando como resultado Vsalida=0.75V**
 
-**46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV= 18 kΩ y R2/R4= 0.02. ¿Cuál es RX?
+**46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV= 18 kΩ y R2/R4= 0.02. ¿Cuál es RX?**
 
 Respuesta:
 
 ![46](https://user-images.githubusercontent.com/105677231/176802067-aa7411c3-73fb-4538-a59e-0d4a71908125.JPG)
 
-**48. 
+**48. . Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60o C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60**
+
+![f7-83](https://user-images.githubusercontent.com/105677231/176802210-2d9533a3-fb2f-48d6-842c-4a75a5559d33.JPG)
+
+- En este caso el voltaje de salida se calcula multiplicando la resistencia por el voltaje de la fuente sobre el cuadruplo de las resistencias. Por lo tanto la respuesta es de **Vsalida= 27kΩ(9/4(27)kΩ)**, **Vsalida es =2.25m V**.
+
+**50. Son correctas las lecturas del medidor mostrado en la figura 7-85?**
+
+![f7-85](https://user-images.githubusercontent.com/105677231/176803677-2c653f05-76f3-447d-92c8-3e55c1c94861.JPG)
+
+- 
+
 
 **4. Video**
 
