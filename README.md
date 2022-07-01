@@ -310,12 +310,98 @@ Respuesta:
 ![10 1](https://user-images.githubusercontent.com/105677231/176821571-d52e7686-6d54-4400-8276-eba4c4ff94f4.JPG)
 ![10 2](https://user-images.githubusercontent.com/105677231/176821578-ac823a3a-0ce7-45bb-9cf3-f1c48a9b3ed6.JPG)
 
-**14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.**
+**14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.**
 
-
+![f8-74](https://user-images.githubusercontent.com/105677231/176821989-23d9a6e1-cd3c-40c5-9346-8765edac1354.JPG)
 
 Respuesta: 
 
+Parte 1
+
+![p1](https://user-images.githubusercontent.com/105677231/176822136-5c870a69-b7c5-4081-8a6d-d75412f94da9.JPG)
+
+Parte 2
+
+![p2](https://user-images.githubusercontent.com/105677231/176822162-2f3d5aa0-fe65-4642-9a95-94477a0e0414.JPG)
+
+Parte 3
+
+![p3](https://user-images.githubusercontent.com/105677231/176822188-3e78a4ac-8c88-4f45-9247-501ef7dd062e.JPG)
+
+**16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B**
+
+![f8-76](https://user-images.githubusercontent.com/105677231/176822812-ea82d451-c465-48f0-be6a-413ea9c75e79.JPG)
+
+A:
+
+![a 16](https://user-images.githubusercontent.com/105677231/176822920-3e6fc32c-72db-411e-8705-9f70f63abddd.JPG)
+
+B:
+
+![b16](https://user-images.githubusercontent.com/105677231/176822945-27b18c56-fd7e-4ce7-9802-1f9cbc5e704a.JPG)
+
+C:
+
+![c16](https://user-images.githubusercontent.com/105677231/176822953-90562dc9-cb8c-4436-a50c-925e6d3d0a8b.JPG)
+
+**18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78**
+
+![8-78](https://user-images.githubusercontent.com/105677231/176823231-ca80f004-b9ad-4581-83a7-18cbd7085b64.JPG)
+
+RESPUESTA:
+
+![R18](https://user-images.githubusercontent.com/105677231/176823286-09fc18c5-e127-4ae2-816b-682623e070c0.JPG)
+
+**20.  Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80. **
+
+![8-80](https://user-images.githubusercontent.com/105677231/176823347-56b117af-6427-496f-8165-112b4125c6de.JPG)
+
+RESPUESTA:
+
+![R20](https://user-images.githubusercontent.com/105677231/176823392-9d0fe899-ddc1-4f92-a2f4-1323049a0ed3.JPG)
+
+**22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.**
+
+![8-82](https://user-images.githubusercontent.com/105677231/176823435-c02e303b-60dd-4cf7-bc1c-580f33323330.JPG)
+
+RESPUESTA:
+
+![22R](https://user-images.githubusercontent.com/105677231/176823471-2e6dd780-4ad7-446e-8a8d-fde6e0ea05ba.JPG)
+
+**24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77**
+
+![R24](https://user-images.githubusercontent.com/105677231/176823591-cbfbdeea-e08f-45d6-a5d1-75806d88daa5.JPG)
+
+
+**28.  En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.**
+
+![8-83](https://user-images.githubusercontent.com/105677231/176823686-346aee6b-9401-4cd7-b08e-e9ff2417bab9.JPG)
+
+RESPUESTA:
+
+![R28](https://user-images.githubusercontent.com/105677231/176823731-e8bae7d7-537f-4468-997a-b888fe71fac2.JPG)
+
+**34.  En la figura 8-88, convierta cada red delta en una red Y.**
+
+![8-88](https://user-images.githubusercontent.com/105677231/176823813-3b902292-8d64-4155-bc8f-aaaf3356b662.JPG)
+
+RESPUESTA: 
+
+A:
+
+![A34](https://user-images.githubusercontent.com/105677231/176824032-b1fc141f-8b27-4562-b3b9-127cdc13db93.JPG)
+
+B:
+
+![B34](https://user-images.githubusercontent.com/105677231/176824045-6ffe8eb5-a79d-4388-9392-cd3505244e2b.JPG)
+
+**36. Determine todas las corrientes que circulan en el circuito de la figura 8-90**
+
+![8-90](https://user-images.githubusercontent.com/105677231/176824104-2525a7a2-f6a0-4db2-8cdf-5acd802bee76.JPG)
+
+RESPUESTA:
+
+![R36](https://user-images.githubusercontent.com/105677231/176824568-8190b396-c03c-4c38-be88-ad3bd2f35088.JPG)
 
 **4. Video**
 
