@@ -275,9 +275,14 @@ Respuesta:
 
 Respuesta:
 
+![2a](https://user-images.githubusercontent.com/105677231/176821460-38887ef0-d37a-4fb8-a52e-67013d2efd71.JPG)
+![2b](https://user-images.githubusercontent.com/105677231/176821471-05ae8b74-5ad3-4fed-8605-fabf999d39d2.JPG)
+
 **4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3**
 
 -Respuesta:
+
+![4 cp8](https://user-images.githubusercontent.com/105677231/176821497-fde1ee7b-049e-4f0b-98c6-ead2e17b621d.JPG)
 
 **6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes**
 
@@ -285,12 +290,16 @@ Respuesta:
 
 -Respuesta:
 
+![6 cp8](https://user-images.githubusercontent.com/105677231/176821527-d0494b12-14d5-45ed-b8ed-280e8526a036.JPG)
+
 **8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.**
 
 ![f8-69](https://user-images.githubusercontent.com/105677231/176813584-9014fe76-36f1-43b5-97c2-8b33f4f2faac.JPG)
 
 Respuesta:
 
+![8 1](https://user-images.githubusercontent.com/105677231/176821545-ca855e34-342c-48ea-993a-68c9cfde21d7.JPG)
+![8 2](https://user-images.githubusercontent.com/105677231/176821552-deeb09b9-b517-42c5-8822-4578c7b2ec68.JPG)
 
 **10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71**
 
@@ -298,7 +307,8 @@ Respuesta:
 
 Respuesta:
 
-
+![10 1](https://user-images.githubusercontent.com/105677231/176821571-d52e7686-6d54-4400-8276-eba4c4ff94f4.JPG)
+![10 2](https://user-images.githubusercontent.com/105677231/176821578-ac823a3a-0ce7-45bb-9cf3-f1c48a9b3ed6.JPG)
 
 **14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.**
 
