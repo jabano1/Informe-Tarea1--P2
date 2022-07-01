@@ -216,11 +216,17 @@ El voltaje medido se reduce en un porcentaje minimo debido a la tolerancia de la
 
 Respuesta:
 
+![40 1](https://user-images.githubusercontent.com/105677231/176800842-1d28fa9a-d6b0-4b0f-9304-bb38e6b91b52.JPG)
+![40 2](https://user-images.githubusercontent.com/105677231/176800849-a7a02718-a1e2-4487-bbd9-94ef7d7242d5.JPG)
+
 **42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?**
 
 ![f7-79](https://user-images.githubusercontent.com/105677231/176798006-938b4337-3f14-47fc-aebd-70b5e21e39ae.JPG)
 
 Respuesta:
+
+![42 1](https://user-images.githubusercontent.com/105677231/176800871-fad8aba0-c276-4aad-91a5-58bce38c2ee8.JPG)
+![42 2](https://user-images.githubusercontent.com/105677231/176800884-2eb58a05-8a54-40bc-ab49-5f5550d9822f.JPG)
 
 **44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:**
 
