@@ -240,7 +240,11 @@ Respuesta:
 
 **46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV= 18 kΩ y R2/R4= 0.02. ¿Cuál es RX?
 
+Respuesta:
 
+![46](https://user-images.githubusercontent.com/105677231/176802067-aa7411c3-73fb-4538-a59e-0d4a71908125.JPG)
+
+**48. 
 
 **4. Video**
 
